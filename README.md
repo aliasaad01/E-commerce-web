@@ -47,22 +47,23 @@ A modern and fully responsive **E-Commerce web application** built with **React.
 ## 📦 Project Structure
 
 src/
-│── components/
-│ ├── Navbar
-│ ├── Footer
-│ └── UI Components
+├─ components/
+│ ├── Navbar.js
+│ ├── Footet.js
+│ ├── ProductCard.js
+│ └── ProductGrid.js
 │
 │── pages/
-│ ├── Home
+│ ├── Navbar
 │ ├── About
 │ ├── FAQs
 │ ├── Contact
 │ ├── Cart
 │ └── Checkout
 │
-├─ index.css
-├─ App.jsx
-└─ main.jsx
+├── index.css
+├── App.jsx
+└── main.jsx
 
 ---
 
