@@ -60,12 +60,9 @@ src/
 │ ├── Cart
 │ └── Checkout
 │
-│── redux/
-│ ├── cartSlice.js
-│ └── store.js
-│
-│── App.js
-│── index.js
+├─ index.css
+├─ App.jsx
+└─ main.jsx
 
 ---
 
